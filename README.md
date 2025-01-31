@@ -21,7 +21,7 @@ This Power BI dashboard provides a comprehensive price simulation analysis, focu
 
 ### Discount Strategy & Profit Impact
 - A 10% discount increases market reach and maximizes profit ($37,840 in the new market).
-- A 20% discount has diminishing returns, reducing profitability in the long run.
+- Premium pricing at $111 remains a strong long-term strategy, ensuring stable profitability while maintaining brand positioning.
 
 #### Price Elasticity & Demand Sensitivity
 - Price sensitivity increases above $100, leading to a steep drop in demand.
